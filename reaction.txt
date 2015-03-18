@@ -1,0 +1,5 @@
+bacterial sulfate reduction
+4Fe(OH)3 + 8SO4 + 15CH2O -> 4 FeS2 + 15 HCO3 + 13H2O + OH
+input from soil/atmosphere+ocean
+output soil/atmosphere+ocean
+ref: Treatise on Geochemistry, vol8, p542

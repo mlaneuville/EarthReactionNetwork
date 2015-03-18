@@ -1,0 +1,10 @@
+source: Ruepke et al 2004, fig1
+water buried in the mantle per m2 seafloor: 3.3-6.8e5 kg
+which can be split among the following contributions
+- sediments 0.6e5 kg
+- crust 1.7e5 kg
+- serpentinized mantle 0.9-4.6e5 kg
+- deep recycling 
+water directly released directly through volcanism (slab fluids): 3-4.4e5 kg
+which leaves a net flux to the mantle of 0.2-2.4e5 kg
+memo: all of this is per m2 seafloor
