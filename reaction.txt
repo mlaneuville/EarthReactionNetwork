@@ -3,3 +3,16 @@ bacterial sulfate reduction
 input from soil/atmosphere+ocean
 output soil/atmosphere+ocean
 ref: Treatise on Geochemistry, vol8, p542
+
+i) land
+CO2-fixation in living biomass 4700 Tmol C/yr [ref:FundamentalsOfGeobiology]
+Accumulation of terrestrial organic carbon in vegetation, soil and detritus 33 Tmol C/yr [ref:FundamentalsOfGeobiology]
+Export of terrestrial organic carbon to the oceans 33 Tmol C/yr [ref:FundamentalsOfGeobiology],
+note: this balance may be different in the permian, carboniferous (see Berner and Canfield, 1989)
+
+ii) oceans
+CO2-fixation in living biomass 4040 Tmol C/yr [ref:FundamentalsOfGeobiology]
+export of marine biomass into the deep ocean 800 Tmol C/yr [ref:FundamentalsOfGeobiology]
+Rain of particulate organic matter to the seafloor 190 Tmol C/yr [ref:FundamentalsOfGeobiology]
+Burial of organic matter in surface sediments 10-65 Tmol C/yr [ref:FundamentalsOfGeobiology]
+Burial of organic matter in carbonate and deep sediments 5.4-27 Tmol C/yr [ref:FundamentalsOfGeobiology]

@@ -8,5 +8,6 @@ Crust 2000e18 mol eq O2 [ref:Sleep2012] as Fe(III)
 Carbon reservoirs (CO2)
 
 Sediments 7100-7750e18 mol [ref:Sleep2012], 15-20% organic, 80-85% carbonate
+Sediments 6250e18 mol [ref:FundamentalsOfGeobiology], 5000e18 carbonate, 1250e18 organic
 Mantle 9750 +/- 4200 e18 mol [ref:Sleep2012]
 Crust 5000e18 mol [ref:Sleep2012] as kimberlites
