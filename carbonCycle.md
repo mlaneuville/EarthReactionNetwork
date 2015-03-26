@@ -1,8 +1,7 @@
 From Fundamentals of Geobiology
 ---
 
-Description of the major reactions in the carbon cycle. One thing that bothers me
-still is why burial of biogenic carbonate is a CO2 source while burial of authigenic carbonate is a sink. And all of the burials are carbon sinks. -- Matthieu
+Description of the major reactions in the carbon cycle. 
 
 ### CO2 sinks
 
@@ -20,6 +19,16 @@ Dissolved products are carried to the oceans.
 
 * Burial of particulate organic carbon
 * Burial of authigenic carbonates
+
+>Same reaction as biogenic one, but catalized abiotically (hence
+the name). The carbonate ions come from the following reation
+(see A Yu Lein 2004) 
+
+>SO4(2-) + biomass + H2O -> H2S + 2HCO3-
+
+>where biomass comes from CO2 + H2O + photons -> biomass + O2.
+>The whole process is thus a CO2 and carbon sink.
+
 * Burial of methane in marine sediments
 
 
@@ -46,6 +55,8 @@ margins may lead to release of CO2 from carbonate and organic matter.
 >?
 
 * Burial of biogenic carbonate
+
+>Carbonate formation catalyzed by biogenic process (skeletal formation). Uses HCO3- from the ocean. This is a source (compared to authigenic one which is a sink) because the carbonate ions that are used did not consume CO2.
 
 ### Carbon sinks
 
