@@ -59,6 +59,7 @@ d_PW = data[cycle+"Isotopes"]["d_PW"]
 
 x0 = np.array(x0)
 x,f,d = o.fmin_l_bfgs_b(masterBalance, x0, approx_grad=1, bounds=b)
+output = {}
 
 if(d['warnflag'] == 0):
     print "Optimization has converged!"
@@ -72,8 +73,14 @@ print
 print "Proposed solution:"
 for i, key in enumerate(sorted(data[cycle+"Fluxes"])):
     print "%s = %5.2f" % (key, x[i])
+    output[key] = x[i]
+
 print
 print "Total distance to perfect balance = %5.2f" % masterBalance(x)
 print "- From carbon balance = %5.2f" % carbonBalance(x)
 print "- From CO2 balance = %5.2f" % carbonDioxideBalance(x)
 print "- From isotope composition = %5.2f" % isotopeBalance(x)
+
+fname = args["cycle"].split(".")[0] + "Balanced.json"
+with open(fname, "w") as outfile:
+    json.dump(output, outfile)
